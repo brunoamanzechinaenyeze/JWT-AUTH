@@ -56,5 +56,5 @@ const userDB = {
     }
   };
   
-  module.exports = { handleLogin };
+  module.exports = { handleRefreshToken };
   
